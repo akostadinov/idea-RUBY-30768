@@ -1,0 +1,29 @@
+*.csv
+*.gnu
+*.png
+
+*.#*
+*~
+.env
+*#
+*.DS_Store
+*.rdb
+.*.swp
+.rvmrc
+.ruby-version
+.idea
+.tool-versions
+
+# Bundler Stuff
+.bundle
+.vagrant
+
+/coverage/
+
+Session.vim
+
+vendor/bundle
+vendor/cache
+
+# IDE local settings
+.vscode
